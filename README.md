@@ -1,5 +1,5 @@
 # hotel-management-system
-Hotel and Restaurant management system using PostgreSQL database, Python and Command Line user interface.
+Hotel and Restaurant management system using PostgreSQL DBMS, Python language and Command Line user interface.
 
 The main objective is to manage the details of employees, bookings, guests at the lodge and customers at the restaurant, rooms, order, bill, etc. 
 
